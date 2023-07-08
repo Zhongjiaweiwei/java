@@ -3,6 +3,7 @@ package lab03_io;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStream;
 
 public class Part1_define {
     /*字节流抽象基类

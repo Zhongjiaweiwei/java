@@ -12,7 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/stage1_day07/stage1_day07.iml" filepath="$PROJECT_DIR$/stage1_day07/stage1_day07.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage1_day08/stage1_day08.iml" filepath="$PROJECT_DIR$/stage1_day08/stage1_day08.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage1_day09/stage1_day09.iml" filepath="$PROJECT_DIR$/stage1_day09/stage1_day09.iml" />
-      <module fileurl="file://$PROJECT_DIR$/stage2-day01/stage2-day01.iml" filepath="$PROJECT_DIR$/stage2-day01/stage2-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage2_day01/stage2_day01.iml" filepath="$PROJECT_DIR$/stage2_day01/stage2_day01.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage2_day02/stage2_day02.iml" filepath="$PROJECT_DIR$/stage2_day02/stage2_day02.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage2_day03/stage2_day03.iml" filepath="$PROJECT_DIR$/stage2_day03/stage2_day03.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage2_day04/stage2_day04.iml" filepath="$PROJECT_DIR$/stage2_day04/stage2_day04.iml" />
@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/stage2_day06/stage2_day06.iml" filepath="$PROJECT_DIR$/stage2_day06/stage2_day06.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage2_day07/stage2_day07.iml" filepath="$PROJECT_DIR$/stage2_day07/stage2_day07.iml" />
       <module fileurl="file://$PROJECT_DIR$/stage2_day08/stage2_day08.iml" filepath="$PROJECT_DIR$/stage2_day08/stage2_day08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stage2_day09/stage2_day09.iml" filepath="$PROJECT_DIR$/stage2_day09/stage2_day09.iml" />
     </modules>
   </component>
 </project>

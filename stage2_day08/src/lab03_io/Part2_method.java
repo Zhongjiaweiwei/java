@@ -16,7 +16,7 @@ public class Part2_method {
         FileOutputStream fo2=new FileOutputStream("stage2_day08\\src\\lab03_io\\myFile\\xixi.txt");
         fo2.write('a');//覆盖原有内容
         FileOutputStream fo3=new FileOutputStream("stage2_day08\\src\\lab03_io\\myFile\\haha.txt");
-        fo3.write(new byte[]{'a','b','c','d','e','f','g'},1,3);//覆盖原有内容
+        fo3.write("abcd".getBytes(),1,3);//覆盖原有内容
         fo1.close();
         fo2.close();
         fo3.close();
